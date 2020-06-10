@@ -1,0 +1,2 @@
+学习webpack，编写简单的bundle
+便于理解webpack实现机制
